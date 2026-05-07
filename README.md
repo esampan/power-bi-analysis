@@ -24,7 +24,7 @@ This Power BI dashboard analyzes manufacturing downtime, operator efficiency, an
 
 ## Dashboard Preview
 
-![Dashboard Preview](power_bi dashboard.PNG)
+![Dashboard Preview](powerbi-dashboard.png)
 
 ## Dataset
 Sample manufacturing operations dataset used for portfolio and learning purposes.
